@@ -11,7 +11,7 @@ A list of nostr relays exposed as onion services.
 
 ## Contributing
 
-Contributions are encouraged to keep this document alive. Just open a PR and I'll have it tested and merged. The onion URL is the only mandatory column, the rest is just nice-to-have metadata about the relay.
+Contributions are encouraged to keep this document alive. Just open a PR and I'll have it tested and merged. The onion URL is the only mandatory column, the rest is just nice-to-have metadata about the relay. Put `N/A` in empty columns.
 
 ### Operator column
 It is generally preferred to use something that includes a NIP-19 string, either just the string or a url that contains the NIP-19 string in it (e.g. an njump url).
