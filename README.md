@@ -10,6 +10,7 @@ A list of nostr relays exposed as onion services.
 | relay.snort.social | Same relay as clearnet relay relay.snort.social | wss://skzzn6cimfdv5e2phjc4yr5v7ikbxtn5f7dkwn5c7v47tduzlbosqmqd.onion | [njump](https://njump.me/nprofile1qqsx8lnrrrw9skpulctgzruxm5y7rzlaw64tcf9qpqww9pt0xvzsfmgpzpmhxue69uhkummnw3ezuamfdejszxrhwden5te0wfjkccte9eekummjwsh8xmmrd9skct9tyup) |
 | nostr.thesamecat.io | Same relay as clearnet relay nostr.thesamecat.io | ws://2jsnlhfnelig5acq6iacydmzdbdmg7xwunm4xl6qwbvzacw4lwrjmlyd.onion | [njump](https://njump.me/npub1wtuh24gpuxjyvnmjwlvxzg8k0elhasagfmmgz0x8vp4ltcy8ples54e7js) |
 | nostr.land | The nostr.land paid relay (same as clearnet) | ws://nostrland2gdw7g3y77ctftovvil76vquipymo7tsctlxpiwknevzfid.onion<br>http://nostrland2gdw7g3y77ctftovvil76vquipymo7tsctlxpiwknevzfid.onion (for payments) | [njump](https://nostr.at/npub12262qa4uhw7u8gdwlgmntqtv7aye8vdcmvszkqwgs0zchel6mz7s6cgrkj) |
+| bitcoiner.social | No auth required, currently | ws://bitcoinr6de5lkvx4tpwdmzrdfdpla5sya2afwpcabjup2xpi5dulbad.onion | [njump](https://njump.me/npub1an3nz7lczcunpdw6ltjst94hgzcxpppnk7zk3zr2nfcj4yd96kdse6twjd) |
 
 ## Contributing
 
