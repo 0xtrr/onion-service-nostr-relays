@@ -12,6 +12,9 @@ A list of nostr relays exposed as onion services.
 | nostr.land | The nostr.land paid relay (same as clearnet) | ws://nostrland2gdw7g3y77ctftovvil76vquipymo7tsctlxpiwknevzfid.onion<br>http://nostrland2gdw7g3y77ctftovvil76vquipymo7tsctlxpiwknevzfid.onion (for payments) | [njump](https://nostr.at/npub12262qa4uhw7u8gdwlgmntqtv7aye8vdcmvszkqwgs0zchel6mz7s6cgrkj) |
 | bitcoiner.social | No auth required, currently | ws://bitcoinr6de5lkvx4tpwdmzrdfdpla5sya2afwpcabjup2xpi5dulbad.onion | [njump](https://njump.me/npub1an3nz7lczcunpdw6ltjst94hgzcxpppnk7zk3zr2nfcj4yd96kdse6twjd) |
 | relay.westernbtc.com | The westernbtc.com paid relay (via Tor: hjar34h5zwgtvxr345q7rncso3dhdaryuxgri3lu7lbhmnzvin72z5ad.onion) | ws://westbtcebhgi4ilxxziefho6bqu5lqwa5ncfjefnfebbhx2cwqx5knyd.onion | [njump](https://njump.me/npub1pc57ls4rad5kvsp733suhzl2d4u9y7h4upt952a2pucnalc59teq33dmza) |
+| nostr.wine | 🍷 [nostr.wine](https://nostr.wine) relay (same as clearnet) | ws://nostrwinemdptvqukjttinajfeedhf46hfd5bz2aj2q5uwp7zros3nad.onion<br>http://nostrwinemdptvqukjttinajfeedhf46hfd5bz2aj2q5uwp7zros3nad.onion | [njump](https://njump.me/npub1fyvwkve2gxm3h2d8fvwuvsnkell4jtj4zpae8w4w8zhn2g89t96s0tsfuk) |
+| inbox.nostr.wine | 🍷 [inbox.nostr.wine](https://docs.nostr.wine/inbox/readme) relay (same as clearnet) | ws://wineinboxkayswlofkugkjwhoyi744qvlzdxlmdvwe7cei2xxy4gc6ad.onion<br>http://wineinboxkayswlofkugkjwhoyi744qvlzdxlmdvwe7cei2xxy4gc6ad.onion | [njump](https://njump.me/npub1fyvwkve2gxm3h2d8fvwuvsnkell4jtj4zpae8w4w8zhn2g89t96s0tsfuk) |
+
 
 ## Contributing
 
