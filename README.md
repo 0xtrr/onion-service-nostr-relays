@@ -11,7 +11,7 @@ A list of nostr relays exposed as onion services.
 | nostr.thesamecat.io | Same relay as clearnet relay nostr.thesamecat.io | ws://2jsnlhfnelig5acq6iacydmzdbdmg7xwunm4xl6qwbvzacw4lwrjmlyd.onion | [njump](https://njump.me/npub1wtuh24gpuxjyvnmjwlvxzg8k0elhasagfmmgz0x8vp4ltcy8ples54e7js) |
 | nostr.land | The nostr.land paid relay (same as clearnet) | ws://nostrland2gdw7g3y77ctftovvil76vquipymo7tsctlxpiwknevzfid.onion<br>http://nostrland2gdw7g3y77ctftovvil76vquipymo7tsctlxpiwknevzfid.onion (for payments) | [njump](https://nostr.at/npub12262qa4uhw7u8gdwlgmntqtv7aye8vdcmvszkqwgs0zchel6mz7s6cgrkj) |
 | bitcoiner.social | No auth required, currently | ws://bitcoinr6de5lkvx4tpwdmzrdfdpla5sya2afwpcabjup2xpi5dulbad.onion | [njump](https://njump.me/npub1an3nz7lczcunpdw6ltjst94hgzcxpppnk7zk3zr2nfcj4yd96kdse6twjd) |
-| relay.westernbtc.com | The westernbtc.com paid relay (via Tor: hjar34h5zwgtvxr345q7rncso3dhdaryuxgri3lu7lbhmnzvin72z5ad.onion) | ws://westbtcebhgi4ilxxziefho6bqu5lqwa5ncfjefnfebbhx2cwqx5knyd.onion | [njump](https://njump.me/npub1pc57ls4rad5kvsp733suhzl2d4u9y7h4upt952a2pucnalc59teq33dmza) |
+| relay.westernbtc.com | The westernbtc.com paid relay (via Tor: hjar34h5zwgtvxr345q7rncso3dhdaryuxgri3lu7lbhmnzvin72z5ad.onion) | ws://westbtcebhgi4ilxxziefho6bqu5lqwa5ncfjefnfebbhx2cwqx5knyd.onion | [njump](https://njump.me/npub1pc57ls4rad5kvsp733suhzl2d4u9y7h4upt952a2pucnalc59teq33dmza) | freelay.sovbit.host | Free relay for sovbit.host | ws://sovbitm2enxfr5ot6qscwy5ermdffbqscy66wirkbsigvcshumyzbbqd.onion | [njump](https://njump.me/npub1gnwpctdec0aa00hfy4lvadftu08ccs9677mr73h9ddv2zvw8fu9smmerrq) | nostr.sovbit.host | Paied relay for sovbit.host | ws://sovbitgz5uqyh7jwcsudq4sspxlj4kbnurvd3xarkkx2use3k6rlibqd.onion | [njump](https://njump.me/npub1gnwpctdec0aa00hfy4lvadftu08ccs9677mr73h9ddv2zvw8fu9smmerrq) | 
 
 ## Contributing
 
@@ -19,3 +19,4 @@ Contributions are encouraged to keep this document alive. Just open a PR and I'l
 
 ### Operator column
 It is generally preferred to use something that includes a NIP-19 string, either just the string or a url that contains the NIP-19 string in it (e.g. an njump url).
+https://njump.me/npub1gnwpctdec0aa00hfy4lvadftu08ccs9677mr73h9ddv2zvw8fu9smmerrq
