@@ -14,6 +14,9 @@ A list of nostr relays exposed as onion services.
 | relay.westernbtc.com | The westernbtc.com paid relay (via Tor: hjar34h5zwgtvxr345q7rncso3dhdaryuxgri3lu7lbhmnzvin72z5ad.onion) | ws://westbtcebhgi4ilxxziefho6bqu5lqwa5ncfjefnfebbhx2cwqx5knyd.onion | [njump](https://njump.me/npub1pc57ls4rad5kvsp733suhzl2d4u9y7h4upt952a2pucnalc59teq33dmza) | 
 | freelay.sovbit.host | Free relay for sovbit.host | ws://sovbitm2enxfr5ot6qscwy5ermdffbqscy66wirkbsigvcshumyzbbqd.onion | [njump](https://njump.me/npub1gnwpctdec0aa00hfy4lvadftu08ccs9677mr73h9ddv2zvw8fu9smmerrq) | 
 | nostr.sovbit.host | Paied relay for sovbit.host | ws://sovbitgz5uqyh7jwcsudq4sspxlj4kbnurvd3xarkkx2use3k6rlibqd.onion | [njump](https://njump.me/npub1gnwpctdec0aa00hfy4lvadftu08ccs9677mr73h9ddv2zvw8fu9smmerrq) |
+| nostr.wine | 🍷 [nostr.wine](https://nostr.wine) relay (same as clearnet) | ws://nostrwinemdptvqukjttinajfeedhf46hfd5bz2aj2q5uwp7zros3nad.onion<br>http://nostrwinemdptvqukjttinajfeedhf46hfd5bz2aj2q5uwp7zros3nad.onion | [njump](https://njump.me/npub1fyvwkve2gxm3h2d8fvwuvsnkell4jtj4zpae8w4w8zhn2g89t96s0tsfuk) |
+| inbox.nostr.wine | 🍷 [inbox.nostr.wine](https://docs.nostr.wine/inbox/readme) relay (same as clearnet) | ws://wineinboxkayswlofkugkjwhoyi744qvlzdxlmdvwe7cei2xxy4gc6ad.onion<br>http://wineinboxkayswlofkugkjwhoyi744qvlzdxlmdvwe7cei2xxy4gc6ad.onion | [njump](https://njump.me/npub1fyvwkve2gxm3h2d8fvwuvsnkell4jtj4zpae8w4w8zhn2g89t96s0tsfuk) |
+
 
 ## Contributing
 
@@ -21,4 +24,3 @@ Contributions are encouraged to keep this document alive. Just open a PR and I'l
 
 ### Operator column
 It is generally preferred to use something that includes a NIP-19 string, either just the string or a url that contains the NIP-19 string in it (e.g. an njump url).
-https://njump.me/npub1gnwpctdec0aa00hfy4lvadftu08ccs9677mr73h9ddv2zvw8fu9smmerrq
