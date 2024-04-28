@@ -22,5 +22,7 @@ A list of nostr relays exposed as onion services.
 
 Contributions are encouraged to keep this document alive. Just open a PR and I'll have it tested and merged. The onion URL is the only mandatory column, the rest is just nice-to-have metadata about the relay. Put `N/A` in empty columns.
 
+If you want to contribute anonymously, please contact me on [SimpleX](https://simplex.chat/contact#/?v=2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FZ_4q0Nv91wCk8Uekyiaas7NSr-nEDir7%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAvdSLn5QEwrfKQswQGTzlwtXeLMXbzxErv-zOJU6D0y8%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion) or send a DM on nostr using a disposable npub. 
+
 ### Operator column
 It is generally preferred to use something that includes a NIP-19 string, either just the string or a url that contains the NIP-19 string in it (e.g. an njump url).
