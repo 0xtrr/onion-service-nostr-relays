@@ -18,7 +18,7 @@ A list of nostr relays exposed as onion services.
 | inbox.nostr.wine | 🍷 [inbox.nostr.wine](https://inbox.nostr.wine) relay | ws://wineinboxkayswlofkugkjwhoyi744qvlzdxlmdvwe7cei2xxy4gc6ad.onion | [njump](https://njump.me/npub1fyvwkve2gxm3h2d8fvwuvsnkell4jtj4zpae8w4w8zhn2g89t96s0tsfuk) | [Payment URL](http://wineinboxkayswlofkugkjwhoyi744qvlzdxlmdvwe7cei2xxy4gc6ad.onion) |
 | filter.nostr.wine | 🍷 [filter.nostr.wine](https://filter.nostr.wine) proxy relay | ws://winefiltermhqixxzmnzxhrmaufpnfq3rmjcl6ei45iy4aidrngpsyid.onion | [njump](https://njump.me/npub1fyvwkve2gxm3h2d8fvwuvsnkell4jtj4zpae8w4w8zhn2g89t96s0tsfuk) | [Payment URL](http://nostrwinemdptvqukjttinajfeedhf46hfd5bz2aj2q5uwp7zros3nad.onion/add-time) |
 | N/A | N/A | ws://pzfw4uteha62iwkzm3lycabk4pbtcr67cg5ymp5i3xwrpt3t24m6tzad.onion:81 | [njump](https://njump.oxtr.dev/nprofile1q9z8wue69uhky6t5vdhkjmnjxejx2dtvddm8sdr5wpmkgmt6wfjxversd3sn2umevyexzenhwp3kzcn2w4cry7rsdy6kgatvvfskgtn0de5k7m30q9z8wue69uhk77r5wfjx2anpwcmrg73kx3ukydmcxeex5ee5de685ut2dpjkgmf4vg6h56n3w4k82emtde585u35xeh8jvn3vfskgtn0de5k7m30qqs93v545xjl0w8865rhw7kte0mkjxst88rk3k3xj53q4zdxm2zu5ectdn2z6) | N/A |
-
+| nostr.fractalized.net | Free relay for fractalized.net | ws://xvgox2zzo7cfxcjrd2llrkthvjs5t7efoalu34s6lmkqhvzvrms6ipyd.onion | [njump](https://njump.me/npub1ky4kxtyg0uxgw8g5p5mmedh8c8s6sqny6zmaaqj44gv4rk0plaus3m4fd2) | N/A |
 
 ## Contributing
 
