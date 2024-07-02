@@ -20,6 +20,8 @@ A list of nostr relays exposed as onion services.
 | N/A | N/A | ws://pzfw4uteha62iwkzm3lycabk4pbtcr67cg5ymp5i3xwrpt3t24m6tzad.onion:81 | [njump](https://njump.oxtr.dev/nprofile1q9z8wue69uhky6t5vdhkjmnjxejx2dtvddm8sdr5wpmkgmt6wfjxversd3sn2umevyexzenhwp3kzcn2w4cry7rsdy6kgatvvfskgtn0de5k7m30q9z8wue69uhk77r5wfjx2anpwcmrg73kx3ukydmcxeex5ee5de685ut2dpjkgmf4vg6h56n3w4k82emtde585u35xeh8jvn3vfskgtn0de5k7m30qqs93v545xjl0w8865rhw7kte0mkjxst88rk3k3xj53q4zdxm2zu5ectdn2z6) | N/A |
 | nostr.fractalized.net | Free relay for fractalized.net | ws://xvgox2zzo7cfxcjrd2llrkthvjs5t7efoalu34s6lmkqhvzvrms6ipyd.onion | [njump](https://njump.me/npub1ky4kxtyg0uxgw8g5p5mmedh8c8s6sqny6zmaaqj44gv4rk0plaus3m4fd2) | N/A |
 | nfrelay.app | [nfrelay.app](https://nfrelay.app) aggregator relay (nostr-filter-relay) | ws://nfrelay6saohkmipikquvrn6d64dzxivhmcdcj4d5i7wxis47xwsriyd.onion | [njump](https://njump.me/npub19dn7fq9hlxwjsdtgf28hyakcdmd73cccaf2u7a7vl42echey7ezs2hwja7) | N/A |
+| relay.nostr.net | Public relay from nostr.net (Same as clearnet) | ws://nostrnetl6yd5whkldj3vqsxyyaq3tkuspy23a3qgx7cdepb4564qgqd.onion | [njump](https://nostr.at/aljaz@nostr.si) | N/A |
+
 
 ## Contributing
 
