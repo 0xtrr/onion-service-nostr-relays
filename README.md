@@ -1,7 +1,8 @@
 # onion-service-nostr-relays
 A list of nostr relays exposed as onion services.
 
-This list is also hosted on nostr: nostr:naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uzg8l822qqxnzde3xserjdfjxvurjvp497akz0.
+You can find this list on nostr too, e.g. on [Habla](https://habla.news/u/0xtr@oxtr.dev/1714295238905).
+The note id is: naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uzg8l822qqxnzde3xserjdfjxvurjvp497akz0.
 
 
 ## The list
