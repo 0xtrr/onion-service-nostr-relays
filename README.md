@@ -24,6 +24,7 @@ The note id is: naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uz
 | nostr.fractalized.net | Free relay for fractalized.net | ws://xvgox2zzo7cfxcjrd2llrkthvjs5t7efoalu34s6lmkqhvzvrms6ipyd.onion | [njump](https://njump.me/npub1ky4kxtyg0uxgw8g5p5mmedh8c8s6sqny6zmaaqj44gv4rk0plaus3m4fd2) | N/A |
 | nfrelay.app | [nfrelay.app](https://nfrelay.app) aggregator relay (nostr-filter-relay) | ws://nfrelay6saohkmipikquvrn6d64dzxivhmcdcj4d5i7wxis47xwsriyd.onion | [njump](https://njump.me/npub19dn7fq9hlxwjsdtgf28hyakcdmd73cccaf2u7a7vl42echey7ezs2hwja7) | N/A |
 | relay.nostr.net | Public relay from nostr.net (Same as clearnet) | ws://nostrnetl6yd5whkldj3vqsxyyaq3tkuspy23a3qgx7cdepb4564qgqd.onion | [njump](https://nostr.at/aljaz@nostr.si) | N/A |
+| nerostrator | Free to read, pay XMR to relay | ws://nerostrrgb5fhj6dnzhjbgmnkpy2berdlczh6tuh2jsqrjok3j4zoxid.onion | [njump](https://njump.me/npub19j7zhftjfjnep4xa7zxhevschkqdvem9zr26dq4myhu6d62p3gqs3htnca) |[Payment URL](http://nerostrrgb5fhj6dnzhjbgmnkpy2berdlczh6tuh2jsqrjok3j4zoxid.onion) |
 
 
 ## Contributing
