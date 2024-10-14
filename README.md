@@ -25,7 +25,11 @@ The note id is: naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uz
 | nfrelay.app | [nfrelay.app](https://nfrelay.app) aggregator relay (nostr-filter-relay) | ws://nfrelay6saohkmipikquvrn6d64dzxivhmcdcj4d5i7wxis47xwsriyd.onion | [njump](https://njump.me/npub19dn7fq9hlxwjsdtgf28hyakcdmd73cccaf2u7a7vl42echey7ezs2hwja7) | N/A | N/A
 | relay.nostr.net | Public relay from nostr.net (Same as clearnet) | ws://nostrnetl6yd5whkldj3vqsxyyaq3tkuspy23a3qgx7cdepb4564qgqd.onion | [njump](https://nostr.at/aljaz@nostr.si) | N/A | N/A |
 | nerostrator | Free to read, pay XMR to relay | ws://nerostrrgb5fhj6dnzhjbgmnkpy2berdlczh6tuh2jsqrjok3j4zoxid.onion | [njump](https://njump.me/npub19j7zhftjfjnep4xa7zxhevschkqdvem9zr26dq4myhu6d62p3gqs3htnca) |[Payment URL](http://nerostrrgb5fhj6dnzhjbgmnkpy2berdlczh6tuh2jsqrjok3j4zoxid.onion) | XMR |
+| nostr.girino.org | Public relay from nostr.girino.org | ws://gnostr2jnapk72mnagq3cuykfon73temzp77hcbncn4silgt77boruid.onion | [njump](https://njump.me/npub18lav8fkgt8424rxamvk8qq4xuy9n8mltjtgztv2w44hc5tt9vets0hcfsz) | N/A | N/A |
+| wot.girino.org | WoT relay from wot.girino.org | ws://girwot2koy3kvj6fk7oseoqazp5vwbeawocb3m27jcqtah65f2fkl3yd.onion | [njump](https://njump.me/npub18lav8fkgt8424rxamvk8qq4xuy9n8mltjtgztv2w44hc5tt9vets0hcfsz) | N/A | N/A |
+| haven.girino.org/{outbox, inbox, chat, private} | Haven smart relay from haven.girino.org | ws://ghaven2hi3qn2riitw7ymaztdpztrvmm337e2pgkacfh3rnscaoxjoad.onion/{outbox, inbox, chat, private} | [njump](https://njump.me/npub18lav8fkgt8424rxamvk8qq4xuy9n8mltjtgztv2w44hc5tt9vets0hcfsz) | N/A | N/A |
 | relay.nostpy.lol | Free Web of Trust relay (Same as clearnet) | ws://pemgkkqjqjde7y2emc2hpxocexugbixp42o4zymznil6zfegx5nfp4id.onion | [njump](https://njump.me/nprofile1qy08wumn8ghj7mn0wd68yttsw43zuam9d3kx7unyv4ezumn9wshszxrhwden5te0dehhxarj9enx6apwwa5h5tnzd9az7qpqg5pm4gf8hh7skp2rsnw9h2pvkr32sdnuhkcx9yte7qxmrg6v4txqr5amve) |N/A | N/A |
+
 
 
 ## Contributing
