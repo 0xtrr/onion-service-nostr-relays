@@ -32,6 +32,7 @@ The note id is: naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uz
 | Poster.place Nostr Relay | N/A | ws://dmw5wbawyovz7fcahvguwkw4sknsqsalffwctioeoqkvvy7ygjbcuoad.onion | [njump](https://njump.me/nprofile1qqsr836yylem9deatcu08ekfj8qj9f2aypq8ydt0w8dyng8zp8akjsqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0ds6xxx6y) | N/A | N/A |
 | Azzamo Relay        | Azzamo Premium Nostr relay. (paid)    | ws://q6a7m5qkyonzb5fk5yv4jyu3ar44hqedn7wjopg737lit2ckkhx2nyid.onion | [njump](https://njump.me/michilis@noderunners.org) | [Payment URL](https://azzamo.net/pay) | BTC LN |
 | Azzamo Inbox Relay  | Group and Private message relay. (Freemium) | ws://gp5kiwqfw7t2fwb3rfts2aekoph4x7pj5pv65re2y6hzaujsxewanbqd.onion | [njump](https://njump.me/michilis@noderunners.org) | [Payment URL](https://azzamo.net/pay) | BTC LN |
+| Noderunners Relay | The official [Noderunners](https://noderunners.network) Nostr Relay. | ws://35vr3xigzjv2xyzfyif6o2gksmkioppy4rmwag7d4bqmwuccs2u4jaid.onion | [njump](https://njump.me/michilis@noderunners.org) | [Payment URL](https://noderunners.azzamo.net) | BTC LN |
 
 
 
