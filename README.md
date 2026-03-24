@@ -33,6 +33,7 @@ The note id is: naddr1qvzqqqr4gupzpvkkwr098vnkj8qvxsqzykm9cddzd5rqjw7vg86gllr3uz
 | Azzamo Relay        | [Azzamo](https://azzamo.net/relays/) Premium Nostr relay. (paid)    | ws://q6a7m5qkyonzb5fk5yv4jyu3ar44hqedn7wjopg737lit2ckkhx2nyid.onion | [njump](https://njump.me/npub1jjn20zj6awa6gz73423zxjqszvkzmqqyhwghwctvgy7ncrwlxg8qdavknm) | [Payment URL](https://azzamo.net/pay) | BTC LN |
 | Azzamo Inbox Relay  | [Azzamo](https://azzamo.net/inbox-relay/) Group and Private message relay. (Freemium) | ws://gp5kiwqfw7t2fwb3rfts2aekoph4x7pj5pv65re2y6hzaujsxewanbqd.onion | [njump](https://njump.me/npub1jjn20zj6awa6gz73423zxjqszvkzmqqyhwghwctvgy7ncrwlxg8qdavknm) | [Payment URL](https://azzamo.net/pay) | BTC LN |
 | Noderunners Relay | The official [Noderunners](https://noderunners.network) Nostr Relay. | ws://35vr3xigzjv2xyzfyif6o2gksmkioppy4rmwag7d4bqmwuccs2u4jaid.onion | [njump](https://njump.me/michilis@noderunners.org) | [Payment URL](https://noderunners.azzamo.net) | BTC LN |
+| nostrbtc.com | Paid relay, same as clearnet wss://nostrbtc.com | ws://7imqzy3ui3gpn4fdsvefaqjrs4zqvytm33h5jmcmzbfc2hmm4qhy2iad.onion | [njump](https://njump.me/npub1j9wdxdqqvn877yacfjvjgxldutr3mctnh79kv3druuyps9uaauasdycm77) | [Payment URL](https://nostrbtc.com) | BTC LN |
 
 
 
